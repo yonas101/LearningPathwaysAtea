@@ -26,6 +26,6 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-<video src="https://www.youtube.com/watch?v=QA7qI9Hr77U" controls="controls" style="max-width: 730px;">
+<video src="https://www.youtube.com/watch?v=QA7qI9Hr77U">
 </video>
 
