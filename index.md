@@ -24,9 +24,8 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](https://www.youtube.com/watch?v=QA7qI9Hr77U)
-![Image](http://qnimate.com/wp-content/uploads/2014/03/images2.jpg)
 ```
-
+![test]({{site.baseurl}}/http://qnimate.com/wp-content/uploads/2014/03/images2.jpg)
 <video src="https://www.youtube.com/watch?v=QA7qI9Hr77U">
 </video>
 
