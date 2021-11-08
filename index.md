@@ -26,4 +26,4 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-[Hanterad Arbetsplats](https://www.youtube.com/watch?v=QA7qI9Hr77U)
+https://www.youtube.com/watch?v=QA7qI9Hr77U
